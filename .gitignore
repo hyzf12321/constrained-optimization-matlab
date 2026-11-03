@@ -1,0 +1,17 @@
+# Experimental data is distributed as a Release attachment.
+*.mat
+
+# Reports and private document drafts.
+实验报告/
+*.doc
+*.docx
+*.pdf
+~$*
+
+# Generated diagnostics and local editor files.
+90_临时文件/
+*.asv
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
